@@ -15,7 +15,9 @@
   },
   "author": "jose gabriel guzman",
   "license": "MIT",
-  "engines": { "node" : ">=4" },
+  "engines": {
+    "node": ">=4"
+  },
   "bugs": {
     "url": "https://github.com/pygabo/renegaitor/issues"
   },
